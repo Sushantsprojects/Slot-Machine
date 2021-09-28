@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+
+.heading_style{
+ padding:20px 0;
+ text-align: center;
+ font-family: 'Raleway', sans-serif;
+ text-transform: uppercase;
+ font-size: 13px;
+ letter-spacing: 2px;
+ font-weight: 500;
+ background-color: #fff;
+ font-size:2rem;
+ margin-bottom: 30px;
+
+}
+
+span {
+  background-color: blanchedalmond;
+  padding:5px;
+}
+
+.slot_machine{
+  font-family: 'Raleway', sans-serif;
+  background-color: rgb(63, 253, 253);
+  text-align: center;
+  border:2px solid rgb(240, 237, 71);
+}
+
+.slot_footer{
+  font-family: 'Raleway', sans-serif;
+ background-color: bisque;
+ padding:15px 0;
+ text-align: center;
+}
