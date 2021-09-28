@@ -48,13 +48,13 @@ return(
 <div class="slot_machine">
 <SlotM  x="😄"  y='😄'  z='😄' />
 <hr/>
-<SlotM  x='😈'  y=' 😭'  z='😄'/>
+<SlotM  x='😈'  y='😭'  z='😄'/>
 <hr/>
-<SlotM  x='  ⚽'  y=' 🏀'  z=' 🏈'/>
+<SlotM  x='⚽'  y='🏀'  z='🏈'/>
 <hr/>
-<SlotM  x=' 🐌'  y=' 🐌'  z='🐌'/>
+<SlotM  x='🐌'  y='🐌'  z='🐌'/>
 <hr/>
-<SlotM  x=' 🥭' y=' 🍌' z=' 🍍'/>
+<SlotM  x='🥭' y='🍌' z='🍍'/>
 </div>
 <Footer />
 </>
